@@ -1,0 +1,322 @@
+/* XXL (laptop) Device :1200px. */
+
+@media (min-width: 1400px) and (max-width: 1650px) {}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    h1 {
+        font-size: 55px;
+    }
+    h4 {
+        font-size: 24px;
+    }
+    h6 {
+        font-size: 20px;
+    }
+    .banner_part {
+        background-position: 60% 100%;
+        padding: 150px 0px 250px;
+    }
+    footer .subscribe_part .subscribe_content .subscribe_content_overlay .subscribe_content_overlay_content {
+        padding: 55px 50px;
+    }
+    footer .subscribe_part .subscribe_content .subscribe_content_overlay .subscribe_content_overlay_content form .btn_com {
+        margin-left: -58px;
+        margin-top: -3px;
+    }
+}
+
+/* LG Device :992px. */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    h1 {
+        font-size: 46px;
+    }
+    h2 {
+        font-size: 52px;
+    }
+    h5 {
+        font-size: 23px;
+    }
+    .banner_part .extra_part_banner .extra_part_banner_text .con_extra_part_banner h6 {
+        font-size: 15px;
+    }
+    .menu_part .navbar-brand img {
+        width: 180px;
+    }
+    .banner_part {
+        background-position: 68% 100%;
+        padding: 120px 0px 200px;
+        margin-bottom: 57px;
+    }
+    .banner_part .extra_part_banner .extra_part_banner_text {
+        bottom: -257px;
+        padding: 30px 25px;
+    }
+    .service_part .service_item h4 {
+        font-size: 20px;
+    }
+    footer .subscribe_part .subscribe_content .subscribe_content_overlay .subscribe_content_overlay_content {
+        padding: 42px 20px;
+    }
+    .our_free_grideline_part .free_grideline_form h5 {
+        font-size: 34px;
+    }
+    footer .subscribe_part .subscribe_content .subscribe_content_overlay .subscribe_content_overlay_content form .form-control {
+        font-size: 14px;
+    }
+    footer .subscribe_part .subscribe_content .subscribe_content_overlay .subscribe_content_overlay_content form .btn_com {
+        margin-left: -74px;
+        margin-top: -1px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    h1 {
+        font-size: 42px;
+    }
+    h2 {
+        font-size: 42px;
+    }
+    h3 {
+        font-size: 34px;
+    }
+    h4 {
+        font-size: 24px;
+    }
+    .pb_90 {
+        padding-bottom: 60px;
+    }
+    .pt_90 {
+        padding-top: 60px;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(22, 72, 162, 0.96);
+        border-color: rgba(22, 72, 162, 0.96);
+    }
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(22, 72, 162, 0.96)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+    .banner_part {
+        background-position: 60% 100%;
+        padding: 100px 0px 140px;
+        margin-bottom: 57px;
+    }
+    .banner_part .extra_part_banner .extra_part_banner_text {
+        bottom: -222px;
+        padding: 0px 25px 30px;
+    }
+    .extra_part_banner_text .d-flex {
+        margin-top: 30px;
+    }
+    .our_free_grideline_part .free_grideline_form h5 {
+        font-size: 28px;
+    }
+    .our_free_grideline_part .free_grideline_item ul li span {
+        font-size: 16px;
+    }
+    .subscribe_content img {
+        height: 230px;
+    }
+    .subscribe_content_overlay_content h5 {
+        font-size: 20px;
+    }
+    footer .subscribe_part .subscribe_content .subscribe_content_overlay .subscribe_content_overlay_content form .form-control {
+        height: 50px;
+        width: 100%;
+        font-size: 16px;
+    }
+    footer .subscribe_part .subscribe_content .subscribe_content_overlay .subscribe_content_overlay_content form .btn_com {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+    footer .subscribe_part .subscribe_content .subscribe_content_overlay .subscribe_content_overlay_content {
+        padding: 50px 50px;
+    }
+    footer .copy_right_part .copy_right_content p {
+        font-size: 15px;
+    }
+}
+
+/* -- Phone Landscape -- */
+
+@media (min-width: 576px) and (max-width: 767px) {
+    h1 {
+        font-size: 38px;
+    }
+    h2 {
+        font-size: 34px;
+    }
+    h3 {
+        font-size: 32px;
+    }
+    h4 {
+        font-size: 26px;
+    }
+    h5 {
+        font-size: 20px;
+    }
+    h6 {
+        font-size: 18px;
+    }
+    p {
+        font-size: 16px;
+    }
+    .pb_90 {
+        padding-bottom: 60px;
+    }
+    .pt_90 {
+        padding-top: 60px;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(22, 72, 162, 0.96);
+        border-color: rgba(22, 72, 162, 0.96);
+    }
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(22, 72, 162, 0.96)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+    .banner_part {
+        background-position: 63% 100%;
+        padding: 100px 0px 150px;
+        margin-bottom: 57px;
+    }
+    .banner_part .extra_part_banner .extra_part_banner_text {
+        bottom: -252px;
+        padding: 0px 15px 30px;
+    }
+    .extra_part_banner_text .d-flex {
+        margin-top: 30px;
+    }
+    .banner_part .extra_part_banner .extra_part_banner_text .con_extra_part_banner h6 {
+        font-size: 17px;
+    }
+    .our_free_grideline_part .free_grideline_form h5 {
+        font-size: 28px;
+    }
+    .our_free_grideline_part .free_grideline_item ul {
+        padding: 10px;
+    }
+    .subscribe_content img {
+        height: 320px;
+    }
+    footer .subscribe_part .subscribe_content .subscribe_content_overlay .subscribe_content_overlay_content form .form-control {
+        height: 50px;
+        width: 100%;
+        font-size: 14px;
+    }
+    footer .subscribe_part .subscribe_content .subscribe_content_overlay .subscribe_content_overlay_content form .btn_com {
+        margin-left: 0px;
+        margin-top: 20px;
+        height: 51px;
+    }
+    .feedback_part .feed_slide_item p {
+        font-size: 16px;
+    }
+    .our_free_grideline_part .free_grideline_item ul li span {
+        font-size: 16px;
+    }
+    header .header_top_part .header_top_sicon {
+        padding-top: 15px;
+    }
+}
+
+/* mobile size 480 small Device. */
+
+@media (min-width: 400px) and (max-width: 480px) {}
+
+/* Extra small Device. */
+
+@media (min-width: 320px) and (max-width: 575px) {
+    h1 {
+        font-size: 31px;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    h3 {
+        font-size: 24px;
+    }
+    h4 {
+        font-size: 20px;
+    }
+    h5 {
+        font-size: 18px;
+    }
+    h6 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 14px;
+    }
+    .pb_90 {
+        padding-bottom: 60px;
+    }
+    .pt_90 {
+        padding-top: 60px;
+    }
+    .py_90 {
+        padding: 60px 0px 60px;
+    }
+    .py_6090 {
+        padding: 30px 0px 60px;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(22, 72, 162, 0.96);
+        border-color: rgba(22, 72, 162, 0.96);
+    }
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(22, 72, 162, 0.96)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+    h1 {
+        font-size: 30px;
+    }
+    .banner_part {
+        padding: 100px 0px;
+    }
+    .header_top_sicon .float-end {
+        float: left !important;
+    }
+    .menu_part .navbar-brand img {
+        width: 180px;
+    }
+    .banner_part .extra_part_banner .extra_part_banner_text {
+        bottom: -199px;
+        padding: 0px 25px 30px;
+    }
+    .extra_part_banner_text .d-flex {
+        margin-top: 30px;
+    }
+    .our_free_grideline_part .free_grideline_form h5 {
+        font-size: 26px;
+    }
+    .our_free_grideline_part .free_grideline_item ul {
+        padding: 10px;
+    }
+    .subscribe_content img {
+        height: 270px;
+    }
+    footer .subscribe_part .subscribe_content .subscribe_content_overlay .subscribe_content_overlay_content {
+        padding: 40px 15px;
+    }
+    footer .subscribe_part .subscribe_content .subscribe_content_overlay .subscribe_content_overlay_content form .form-control {
+        height: 50px;
+        width: 100%;
+        font-size: 14px;
+    }
+    footer .subscribe_part .subscribe_content .subscribe_content_overlay .subscribe_content_overlay_content form .btn_com {
+        margin-left: 0px;
+        margin-top: 20px;
+        height: 51px;
+    }
+    footer .main_footer_part .footer_logo p {
+        font-size: 16px;
+    }
+    footer .main_footer_part .footer_item ul li a {
+        font-size: 14px;
+    }
+    header .header_top_part .header_top_sicon {
+        padding-top: 15px;
+    }
+    .course_dtls_part .course_dtls_content h2 {
+        font-size: 32px;
+    }
+}
