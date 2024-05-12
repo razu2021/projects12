@@ -1594,31 +1594,25 @@ footer .copy_right_part .copy_right_content p a {
 }
 
 /*sitemap part code start*/
-
-.sitemap_part {}
-
-.sitemap_item {}
-
-.sitemap_item h5 {
-    padding-bottom: 15px;
-    font-size: 21px;
+.sitemap_list h4{
+    color: #000;
+    font-weight: 700;
+    padding-bottom: 10px;
+    
+}
+.sitemap_list ul li a{
+    color: gray;
+    padding: 5px 0px ;
+}
+.sitemap_list ul li i{
+    color:#072F72;
+    padding: 0px 5px;
+}
+.sitemap_list ul li:hover a{
+    color: red;
+    padding-left: 10px;
 }
 
-.sitemap_item ul {
-    margin-left: 15px;
-}
-
-.sitemap_item ul li a {
-    font-size: 15px;
-    padding: 2.5px 0px;
-    color: #222;
-    font-weight: 500;
-    display: block;
-}
-
-.sitemap_item ul li a i {
-    padding-right: 7.5px;
-}
 
 /* gallery_part start */
 
