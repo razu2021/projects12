@@ -365,7 +365,6 @@ header .fix {
     padding-top: 15px;
 }
 
-/* banner_part end */
 
 /* common_heading start */
 
@@ -438,13 +437,11 @@ header .fix {
 .service_part .service_item ul li:last-child {
     border-right: 0px;
 }
-
 .service_part .service_item ul li:hover {
     background: #0D2352;
     color: #ffffff;
     cursor: pointer;
 }
-
 .service_part .service_item a.btn_com {
     display: block;
     padding: 12px 50px;
@@ -453,7 +450,6 @@ header .fix {
     font-size: 18px;
     border-radius: 0px 0px 7px 7px;
 }
-
 .service_part .extra_sec_btn a.btn {
     background: #0D2352;
     color: #ffffff;
@@ -565,7 +561,6 @@ header .fix {
 }
 
 /* feedback_part start */
-
 .feedback_part {
     background: url(../images/bg.jpg);
     background-size: cover;
